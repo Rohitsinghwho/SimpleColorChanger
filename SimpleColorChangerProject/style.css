@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding: 0;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.firstHeading{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.container{
+    width: 80%;
+    height: auto;
+    border: 2px solid black;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+   flex-wrap: wrap;
+}
+#Yellow{
+    margin: 10px;
+   height: 100px;
+   width: 100px;
+   background-color: yellow;
+   border: 5px solid black;
+}
+#Blue{
+   margin: 10px;
+   height: 100px;
+   width: 100px;
+   background-color: blue;
+   border: 5px solid black;
+
+}
+#Green{
+    margin: 10px;
+   height: 100px;
+   width: 100px;
+   background-color: Green;
+   border: 5px solid Black;
+
+}
+#Red{
+    margin: 10px;
+   height: 100px;
+   width: 100px;
+   background-color: red;
+   border: 5px solid black;
+
+}
+#White{
+    margin: 10px;
+   height: 100px;
+   width: 100px;
+   background-color: white;
+   border: 5px solid black;
+
+}
+.lastheading{
+    margin-top: 20px;
+}
