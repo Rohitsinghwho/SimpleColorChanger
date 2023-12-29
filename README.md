@@ -1,0 +1,2 @@
+# SimpleColorChanger
+#for learning js
